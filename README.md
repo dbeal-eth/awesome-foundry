@@ -38,6 +38,7 @@ Frameworks, plugins and utilities for Foundry.
 
 - [Audit_Helper](https://github.com/HardlyCodeMan/audit_helper) - audit_helper is a Python3 helper script for Linux to automate some Foundry boilerplate set up in audit repositories.
 - [Blacksmith](https://github.com/blacksmith-eth/blacksmith) - Blacksmith generates a simple frontend for interacting with smart contracts.
+- [Cannon](https://github.com/usecannon/cannon) - Declarative deployment, packaging, and publishing for decentralized protocols. Inspired by Terraform, Docker, and npm.
 - [Chisel](https://github.com/foundry-rs/foundry/tree/master/chisel) - Chisel is a fast, utilitarian, and verbose solidity REPL. It is heavily inspired by the incredible work done in soli and solidity-shell!
 - [Foundryup](https://github.com/foundry-rs/foundry/tree/master/foundryup) - Update or revert to a specific Foundry branch with ease.
 - [Foundry Hardhat](https://github.com/foundry-rs/hardhat) - Hardhat plugins to use foundry tools in hardhat environments.
